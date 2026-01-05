@@ -50,7 +50,7 @@ The integration of Machine Learning transformed the strategy from a high-risk sy
 *Figure 1: Comparison between Strategy (Red) and Buy & Hold (Gray).*
 
 ### Impact of ML Optimization
-![ML Comparison](docs/images/ml_comparison_chart.png)
+![ML Comparison](docs/images/ml_equity.png)
 *Figure 2: The ML Dynamic model (Purple) significantly reduces drawdown during market corrections compared to the Fixed Leverage model (Gray).*
 
 ## 🚀 Getting Started
